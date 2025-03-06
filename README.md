@@ -1,5 +1,6 @@
 # 📜 신동엽 포트폴리오
 > 신동엽(Dongyeob Shin) - yeob2 포트폴리오
+> ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
 
 #👋 Intro
 >안녕하세요! "항상 새로운 것을 배우고 도전하고 싶은" 김동우입니다!
