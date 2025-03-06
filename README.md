@@ -1,7 +1,4 @@
 # 📜 신동엽 포트폴리오![header](https://capsule-render.vercel.app/api?type=waving)
-![header](https://capsule-render.vercel.app/api?color=auto)
-![header](https://capsule-render.vercel.app/api?height=400)
-![header](https://capsule-render.vercel.app/api?text=portfolio)
 > ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
 
 #👋 Intro
