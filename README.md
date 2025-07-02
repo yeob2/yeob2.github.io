@@ -28,8 +28,17 @@
 >
 >Skill : tensorflow, OpneCV, CNN
 
+## 3. AI 기반 CAPTCHA 우회 탐지 및 인증 시스템
+>설명 : AI 기반 자동화 공격에 대응 가능한 시각적 보안 강화 CAPTCHA 시스템을 직접 설계하고 구현
+>
+>개발기간 : 2025.03 - 2025.06
+>
+>핵심 역할 : AI 우회 공격에 대응하기 위한 CAPTCHA 생성 로직 설계, Flask 기반 CAPTCHA 인증 시스템 프론트엔드 및 백엔드 구현
+>
+>Skill : Pyhton, Selenium, Flask, PyTesseract, PIL, Streamlit, Matplotlib, Sklearn
 
-## 3. 클라우드 기반 유출 탐지 자동화 시스템
+
+## 4. 클라우드 기반 유출 탐지 자동화 시스템
 
 >설명 : 클라우드 오브젝트 스토리지의 잘못된 설정으로 인해 개인정보 및 악성코드가 유출되는 경우를 해결하기 위한 공개 저장소 자동 탐색, 민감 정보 및 악성 파일을 탐지해 자동 보고서화/제보까지 수행하는 보안 플랫폼 개발
 >
