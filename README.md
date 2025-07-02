@@ -37,8 +37,6 @@
 >
 >핵심 역할 : 데이터 수집, 보고서 자동화, 문장화 프롬포트 작성, 악성 탐지, OCR 연계 처리, DB 구축, 논문 작성
 >
->Language : python3, javascript
->
 >Skill : Python, Selenium, VirusTotal API, YARA, Clova OCR, LLM(llama 3)
 
 
